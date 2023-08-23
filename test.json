@@ -1,10 +1,10 @@
 {
-    "url": "https://huximp.github.io/the4cher/test.yaml",
+    "url": "https://huximp.github.io/the4cher/explopit.yaml",
     "urls": [{
-        "url": "https://huximp.github.io/the4cher/test.yaml",
+        "url": "https://huximp.github.io/the4cher/exploit.yaml",
         "name": "Foo"
     },{
-        "url": "https://huximp.github.io/the4cher/test2.yaml",
+        "url": "https://huximp.github.io/the4cher/exploit.yaml",
         "name": "Foo2"
     }]
 }
